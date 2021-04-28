@@ -1,5 +1,3 @@
-# CryManT GithubVersion: 1.1 Original Version: 2.1
-</br>
 # How Do I Set It Up It?</br>
 Download <a href="https://github.com/RP400/CryManT/archive/refs/heads/main.zip">__Here__</a></br>
 Go to your downloads folder and extract the zip</br>
@@ -16,3 +14,5 @@ python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
 # Updates __(2)__:</br>
 - Coords are now on point</br>
 - Open and close launcher</br>
+
+# CryManT GithubVersion: 1.1 Original Version: 2.1
