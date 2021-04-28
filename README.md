@@ -24,8 +24,8 @@ Choose a Save </br>
 delete the default coords</br>
 type in your coords like this e.g: 3.9, 0.3, 0.0</br>
 now hit ctrl + s and run the code</br>
-type y for yes to go to a saved spot
-type in the save you put it in e.g: Save2
+type y for yes to go to a saved spot</br>
+type in the save you put it in e.g: Save2</br>
 And your done!
 
 
