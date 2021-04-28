@@ -1,12 +1,13 @@
-# How Do I Launch It?
-Download here: https://github.com/RP400/CryManT/archive/refs/heads/main.zip
-Go to your downloads folder and extract the zip
-Then in terminal type:
-pip3 install guizero
-then type:
-python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py
-Now have fun!
+# How Do I Set It Up It?</br>
+Download here: https://github.com/RP400/CryManT/archive/refs/heads/main.zip</br>
+Go to your downloads folder and extract the zip</br>
+Then in terminal type:</br>
+pip3 install guizero</br>
+then type:</br>
+python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
+Now have fun!</br>
 
-# How Do I Launch It After I Close It?
-Just re run int terminal:
-python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py
+# How Do I Launch It After I Closed It?</br>
+Just re run in terminal:</br>
+python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
+
