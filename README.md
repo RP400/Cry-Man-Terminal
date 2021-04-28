@@ -1,5 +1,5 @@
 # How Do I Set It Up It?</br>
-Download here: <a href="https://github.com/RP400/CryManT/archive/refs/heads/main.zip">Here</a></br>
+Download <a href="https://github.com/RP400/CryManT/archive/refs/heads/main.zip">Here</a></br>
 Go to your downloads folder and extract the zip</br>
 Then in terminal type:</br>
 pip3 install guizero</br>
