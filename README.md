@@ -7,7 +7,7 @@ then type:</br>
 python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
 Now have fun!</br>
 
-<h2>How Do I Launch It After I Closed It?</h2></br>
+# How Do I Launch It After I Closed It?</br>
 Just re-run in terminal:</br>
 python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
 
