@@ -1,3 +1,7 @@
+<h2>CryManT v1.2.0</h2>
+# Updates __(2)__:</br>
+- Coords are now on point
+- Open and close launcher
 # How Do I Set It Up It?</br>
 Download <a href="https://github.com/RP400/CryManT/archive/refs/heads/main.zip">__Here__</a></br>
 Go to your downloads folder and extract the zip</br>
