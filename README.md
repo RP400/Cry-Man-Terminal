@@ -11,10 +11,6 @@ Now have fun!</br>
 Just re-run in terminal:</br>
 python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
 
-# Updates __(2)__:</br>
-- Coords are now on point</br>
-- Open and close launcher</br>
-
 # How Do I Add Saved Spots?
 Open up Thonny Python IDE</br>
 you will see something like this:</br>
@@ -31,5 +27,10 @@ now hit ctrl + s and run the code</br>
 type y for yes to go to a saved spot
 type in the save you put it in e.g: Save2
 And your done!
+
+
+# Updates __(2)__:</br>
+- Coords are now on point</br>
+- Open and close launcher</br>
 
 # CryManT GithubVersion: 1.1 Original Version: 2.1
