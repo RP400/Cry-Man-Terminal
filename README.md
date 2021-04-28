@@ -12,7 +12,7 @@ Just re-run in terminal:</br>
 python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
 
 # How Do I Add Saved Spots?
-Open up Thonny Python IDE</br>
+Open the file with Thonny Python IDE,</br>
 you will see something like this:</br>
          X    Y    Z</br>
 Save1 = 0.5, 0.0, 0.7</br>
@@ -20,11 +20,11 @@ Save1 = 0.5, 0.0, 0.7</br>
 Save2 = 0.5, 0.0, 0.7</br>
          X    Y    Z</br>
 Save3 = 0.5, 0.0, 0.7</br>
-Choose a Save </br>
-delete the default coords</br>
+Choose a Save, </br>
+delete the default coords,</br>
 type in your coords like this e.g: 3.9, 0.3, 0.0</br>
-now hit ctrl + s and run the code</br>
-type y for yes to go to a saved spot</br>
+now hit ctrl + s and run the code,</br>
+type y for yes to go to a saved spot,</br>
 type in the save you put it in e.g: Save2</br>
 And your done!
 
