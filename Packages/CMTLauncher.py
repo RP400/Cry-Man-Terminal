@@ -6,7 +6,6 @@ from time import sleep
 def do_nothing():
     print("T-T <(Launching...)")
     sleep(0.2)
-    print("T-T <(Minimize this GUI)")
     sleep(0.5)
     import TransferCMT.py
     app.destroy()
