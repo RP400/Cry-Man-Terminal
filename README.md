@@ -30,7 +30,7 @@ And your done!
 
 
 # Updates __(2)__:</br>
-- Coords are now on point</br>
-- Open and close launcher</br>
+- Fixed all y/n issues</br>
+- Fixed Open an closing launcher problems</br>
 
-# CryManT GithubVersion: 1.1 Original Version: 2.1
+# CryManT GithubVersion: 1.2 Original Version: 2.2
