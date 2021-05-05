@@ -1,4 +1,3 @@
-[![badge](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps) 
 # How Do I Set It Up?</br>
 Download <a href="https://github.com/RP400/CryManT/archive/refs/heads/main.zip">__Here__</a></br>
 Go to your downloads folder and extract the zip</br>
