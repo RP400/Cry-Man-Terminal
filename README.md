@@ -33,4 +33,4 @@ And your done!
 - Fixed all y/n issues</br>
 - Fixed Open an closing launcher problems</br>
 
-# CryManT GithubVersion: 1.2 Original Version: 2.2
+# CryManT GithubVersion: 1.1.2 Original Version: 2.1.2
