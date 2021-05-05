@@ -1,4 +1,4 @@
-# How Do I Set It Up It?</br>
+# How Do I Set It Up?</br>
 Download <a href="https://github.com/RP400/CryManT/archive/refs/heads/main.zip">__Here__</a></br>
 Go to your downloads folder and extract the zip</br>
 Then in terminal type:</br>
