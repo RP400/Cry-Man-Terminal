@@ -9,7 +9,7 @@ Now have fun!</br>
 
 # How Do I Launch It After I Closed It?</br>
 Just re-run in terminal:</br>
-python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
+python3 /home/pi/Downloads/Cry-Man-Terminal-main/Packages/CMTLauncher.py</br>
 
 # How Do I Add Saved Spots?
 Open the file with Thonny Python IDE,</br>
