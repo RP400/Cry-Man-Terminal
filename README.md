@@ -29,8 +29,7 @@ type in the save you put it in e.g: Save2</br>
 And your done!
 
 
-# Updates __(2)__:</br>
-- Fixed all y/n issues</br>
-- Fixed Open an closing launcher problems</br>
+# Updates __(1)__:</br>
+- Better imports (Thanks to @robotech21 for suggesting this fix)</br>
 
-# CryManT GithubVersion: 1.1.2 Original Version: 2.1.2
+# CryManT GithubVersion: 1.1.3 Original Version: 2.1.3
