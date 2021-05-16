@@ -1,5 +1,5 @@
-# How Do I Set It Up It?</br>
-Download <a href="https://github.com/RP400/CryManT/archive/refs/heads/main.zip">__Here__</a></br>
+# How Do I Set It Up?</br>
+Download <a href="https://github.com/RP400/Cry-Man-Terminal/archive/refs/heads/main.zip">__Here__</a></br>
 Go to your downloads folder and extract the zip</br>
 Then in terminal type:</br>
 pip3 install guizero</br>
@@ -9,7 +9,7 @@ Now have fun!</br>
 
 # How Do I Launch It After I Closed It?</br>
 Just re-run in terminal:</br>
-python3 /home/pi/Downloads/CryManT-main/Packages/CMTLauncher.py</br>
+python3 /home/pi/Downloads/Cry-Man-Terminal-main/Packages/CMTLauncher.py</br>
 
 # How Do I Add Saved Spots?
 Open the file with Thonny Python IDE,</br>
@@ -29,8 +29,7 @@ type in the save you put it in e.g: Save2</br>
 And your done!
 
 
-# Updates __(2)__:</br>
-- Coords are now on point</br>
-- Open and close launcher</br>
+# Updates __(1)__:</br>
+- Better imports (Thanks to @robotech21 for suggesting this fix)</br>
 
-# CryManT GithubVersion: 1.1 Original Version: 2.1
+# CryManT GithubVersion: 1.1.3 Original Version: 2.1.3
