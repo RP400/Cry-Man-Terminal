@@ -1,4 +1,6 @@
-# How Do I Set It Up?</br>
+# CryManTerminal
+GithubVersion: 1.1.3 Original Version: 2.1.3
+## How Do I Set It Up?</br>
 To install open the terminal and type the following commands:
 ```bash
 cd ~
@@ -7,11 +9,11 @@ git clone https://github.com/RP400/Cry-Man-Terminal
 ```
 then, to run use this command:
 ```bash
-python3 ~/Cry-Man-Terminal/Packages/CMTLauncher.py</br>
+python3 ~/Cry-Man-Terminal/Packages/CMTLauncher.py
 ```
 Now have fun!
 
-# How Do I Add Saved Spots?
+## How Do I Add Saved Spots?
 Open the `Cry-Man-Terminal/Packages/CMTRaw.py` with your editor of choice (if you can't decide I would recommend Thonny Python IDE),</br>
 you will see something like this starting on line 6:</br>
 ```py
@@ -32,7 +34,5 @@ type in the save you put it in e.g: `Save2`</br>
 And you're done!
 
 
-# Updates (1):</br>
+## Updates (1):</br>
 - Better imports (Thanks to @robotech21 for suggesting this fix)</br>
-
-# CryManT GithubVersion: 1.1.3 Original Version: 2.1.3
